@@ -1,4 +1,4 @@
-## Materials capable of repeating the simulation analyses in Miao *et al*. 2013
+## Materials capable of repeating the simulation analyses in Miao *et al*. 2023
 
 ### Repeating the simulation analyses
 
